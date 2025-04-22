@@ -52,13 +52,13 @@ footer a:hover{
 }
 @media (max-width: 500px){
     #video{
-        width: 310px;
-        height: 300px;
+        width: 320px;
+        height: 500px;
         margin: 30px 0 160px 30px;
     }
     #mensaje iframe{
-        width: 310px;
-        height: 300px;
+        width: 320px;
+        height: 400px;
         margin: 10px 0 160px 10px;
     }
     footer{
